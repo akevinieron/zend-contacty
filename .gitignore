@@ -1,5 +1,6 @@
 .zip
 .rar
+**/configs/alegra.php
 
 # Created by https://www.gitignore.io/api/windows,phpstorm,sublimetext,zendframework
 
